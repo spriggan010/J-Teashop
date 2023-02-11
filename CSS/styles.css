@@ -18,7 +18,7 @@ body{
     background-color:rgb(54, 52, 51) !important;
 }
 
-div{
+.tea-menu{
     width: 80%;
     background-color: rgb(38, 0, 255);
     margin-left: auto;
