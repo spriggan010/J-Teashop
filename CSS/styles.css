@@ -1,5 +1,8 @@
 h1{
+    font: 60px Times;
     text-align: center;
+    text-shadow: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0.637);
 }
@@ -15,8 +18,9 @@ h3{
     font: 25px Times;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
+    font-weight: bold;
     text-align: center;
-    color: rgb(255, 251, 2);
+    color: rgb(2, 255, 179);
 }
 
 p{
@@ -43,3 +47,9 @@ body{
 .Tea-Flavor{
     font-style: italic;
     font-weight: bold;
+}
+
+.Tea-Price{
+    text-decoration: underline;
+    
+}
