@@ -26,7 +26,7 @@ h3{
 p{
     font: 18px Times;
     text-align: center;
-    color: rgb(255, 251, 2);
+    color: rgb(255, 252, 85);
 }
 
 body{
@@ -47,9 +47,20 @@ body{
 .Tea-Flavor{
     font-style: italic;
     font-weight: bold;
+    text-align: left;
+    background-color: rgba(209, 209, 209, 0.432)
 }
 
 .Tea-Price{
+    width: 50%;
+    background-color: rgba(223, 223, 223, 0.479);
     text-decoration: underline;
+    text-align: right;
     
+    
+}
+
+.tea-items p{
+    width: 50%;
+    display: inline-block;
 }
