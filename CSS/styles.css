@@ -5,12 +5,22 @@ h1{
 }
 
 h2{
+    font: 40px Times;
+    font-weight: bolder;
     text-align: center;
-    color: rgb(0, 255, 42);
+    color: rgb(255, 187, 0);
+}
+
+h3{
+    font: 25px Times;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 251, 2);
 }
 
 p{
-    font: 25px Times;
+    font: 18px Times;
     text-align: center;
     color: rgb(255, 251, 2);
 }
@@ -30,7 +40,6 @@ body{
     margin-right: auto;
 }
 
-article{
-    font: 15px Arial;
-    color: azure;
-}
+.Tea-Flavor{
+    font-style: italic;
+    font-weight: bold;
