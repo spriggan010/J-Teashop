@@ -29,3 +29,8 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+
+article{
+    font: 15px Arial;
+    color: azure;
+}
