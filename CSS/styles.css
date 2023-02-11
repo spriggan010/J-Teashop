@@ -15,10 +15,12 @@ p{
 }
 
 body{
-    background-color:rgb(160, 77, 0) !important;
+    background-color:rgb(54, 52, 51) !important;
 }
 
 div{
     width: 80%;
-    background-color: rgb(255, 0, 119);
+    background-color: rgb(38, 0, 255);
+    margin-left: auto;
+    margin-right: auto;
 }
